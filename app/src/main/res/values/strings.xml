@@ -1,0 +1,47 @@
+<resources>
+
+
+    <string name="tab_text_3" translatable="false">Map</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+
+    <string name="log_in">Log in</string>
+
+    <string name="registration">Registration</string>
+
+    <string name="reg">Registration</string>
+    <string name="buy_upgrade" translatable="false"> Buy upgrade</string>
+
+
+    <string name="Map">Map</string>
+
+
+
+    <string name="logAuth">Login</string>
+    <string name="passwordAuth">Password</string>
+
+
+    <string name="loginReg">Login</string>
+    <string name="passwordReg">Password</string>
+
+    <string name="confirmPasswordReg">Confirm password</string>
+
+
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="app_name">todolist</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="note_text">Input exercise</string>
+    <string name="note_details_title" translatable="false">Note</string>
+    <string name="save">Save</string>
+    <string name="completed">Done</string>
+    <string name="input_number">Input number</string>
+</resources>

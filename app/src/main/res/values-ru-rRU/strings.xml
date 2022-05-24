@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список упражнений</string>
+    <string name="note_text">Введите название упражнения</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнено</string>
+    <string name="input_number">Введите число повторений</string>
+    <string name="loginReg">Логин</string>
+    <string name="passwordReg">Пароль</string>
+    <string name="confirmPasswordReg">Повторно введите пароль</string>
+    <string name="logAuth">Логин</string>
+    <string name="passwordAuth">Пароль</string>
+    <string name="Map">Карта</string>
+    <string name="log_in">Логин</string>
+    <string name="registration">Регистрация</string>
+    <string name="reg">Регистрация</string>
+</resources>

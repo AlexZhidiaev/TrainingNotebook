@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "985992397906",
+    "project_id": "zhidyaevdb",
+    "storage_bucket": "zhidyaevdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985992397906:android:0f5009942f18758a0b4b8b",
+        "android_client_info": {
+          "package_name": "com.company.TrainingNotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0b_0Euhcgpq51ZBTgsBYd7sCh9EeYM5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985992397906:android:980a1ce33ea5b3280b4b8b",
+        "android_client_info": {
+          "package_name": "com.company.clicker2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0b_0Euhcgpq51ZBTgsBYd7sCh9EeYM5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985992397906:android:8203978e77b19f390b4b8b",
+        "android_client_info": {
+          "package_name": "com.company.training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0b_0Euhcgpq51ZBTgsBYd7sCh9EeYM5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985992397906:android:6d363364d84738fa0b4b8b",
+        "android_client_info": {
+          "package_name": "com.example.trainingnotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0b_0Euhcgpq51ZBTgsBYd7sCh9EeYM5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985992397906-vdgc1md35mfsqapuvpcuf4215f2vke1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
