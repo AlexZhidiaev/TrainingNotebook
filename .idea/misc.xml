@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout-land/activity_authorization.xml" value="0.144" />
         <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_authorization.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_google_map_gps_cl.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_main.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_maps.xml" value="0.10192147034252297" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_note_details.xml" value="0.10192147034252297" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/activity_registration.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/content_main.xml" value="0.10192147034252297" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/fragment_first.xml" value="0.10192147034252297" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/fragment_second.xml" value="0.10192147034252297" />
+        <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/layout/item_note_list.xml" value="0.2" />
         <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/menu/menu_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Alex/Desktop/mobile/TrainingNotebook/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
       </map>

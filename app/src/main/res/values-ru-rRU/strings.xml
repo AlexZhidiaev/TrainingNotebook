@@ -12,6 +12,8 @@
     <string name="passwordAuth">Пароль</string>
     <string name="Map">Карта</string>
     <string name="log_in">Логин</string>
-    <string name="registration">Регистрация</string>
+    <string name="registration">Зарегистрироваться</string>
     <string name="reg">Регистрация</string>
+    <string name="create_new_account">Создать новый аккаунт</string>
+    <string name="done">Завершено</string>
 </resources>

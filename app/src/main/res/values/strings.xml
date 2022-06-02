@@ -13,7 +13,7 @@
 
     <string name="log_in">Log in</string>
 
-    <string name="registration">Registration</string>
+    <string name="registration">Register</string>
 
     <string name="reg">Registration</string>
     <string name="buy_upgrade" translatable="false"> Buy upgrade</string>
@@ -44,4 +44,7 @@
     <string name="save">Save</string>
     <string name="completed">Done</string>
     <string name="input_number">Input number</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="done">Done</string>
+
 </resources>

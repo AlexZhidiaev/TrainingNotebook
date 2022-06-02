@@ -8,16 +8,14 @@
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/InputPasswordLayout"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@+id/loginbutton"
-        android:layout_marginStart="80dp"
-        android:layout_marginTop="160dp"
-        android:layout_marginEnd="32dp"
-        android:layout_marginBottom="120dp"
-        android:layout_width="250dp"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_height="wrap_content">
+        android:layout_marginStart="360dp"
+        android:layout_marginBottom="80dp"
+        app:layout_constraintBottom_toTopOf="@+id/loginbutton"
+        app:layout_constraintStart_toStartOf="parent">
 
         <EditText
             android:id="@+id/passwordInput"
@@ -31,7 +29,7 @@
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/InputLoginLayout"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@+id/InputPasswordLayout"
+        app:layout_constraintBottom_toTopOf="@+id/loginbutton"
         android:layout_marginStart="80dp"
         android:layout_marginTop="160dp"
         android:layout_marginEnd="32dp"
@@ -50,30 +48,29 @@
     </com.google.android.material.textfield.TextInputLayout>
 
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/loginbutton"
-        android:layout_width="210dp"
-        android:layout_height="81dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="100dp"
-        android:layout_marginBottom="152dp"
-        android:background="@drawable/button"
-        android:text="@string/log_in"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
     <TextView
         android:id="@+id/registrationText"
         android:layout_width="155dp"
         android:layout_height="22dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="132dp"
+        android:layout_marginStart="348dp"
         android:layout_marginBottom="16dp"
         android:gravity="top"
         android:text="@string/create_new_account"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/loginbutton"
+        android:layout_width="157dp"
+        android:layout_height="56dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="344dp"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/button"
+        android:text="@string/log_in"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

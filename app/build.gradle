@@ -3,7 +3,6 @@ plugins {
     id 'com.google.gms.google-services'
     id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 }
-
 android {
     compileSdk 32
 
@@ -29,6 +28,9 @@ android {
     }
     buildFeatures {
         viewBinding true
+    }
+    lintOptions {
+        abortOnError false
     }
 }
 

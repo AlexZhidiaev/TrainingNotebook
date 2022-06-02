@@ -15,12 +15,10 @@
         android:layout_weight="1"
         android:gravity="center_vertical"
         android:minHeight="64dp"
-        tools:text="some text for testing" />
+        tools:text="Input exercise" />
 
     <EditText
         android:id="@+id/numberEx"
-
-
         android:layout_width="65dp"
         android:layout_height="67dp"
         android:gravity="bottom"

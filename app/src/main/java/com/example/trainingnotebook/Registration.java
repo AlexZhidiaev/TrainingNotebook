@@ -24,7 +24,7 @@ public class Registration extends AppCompatActivity {
     Button registrationButton;
 
     private FirebaseAuth mAuth;
-    private FirebaseDatabase db = FirebaseDatabase.getInstance("https://zhidyaevdb-default-rtdb.europe-west3.firebasedatabase.app/");
+    private FirebaseDatabase db = FirebaseDatabase.getInstance("https://zhidyaevdb-default-rtdb.europe-west1.firebasedatabase.app/");
     public DatabaseReference root =db.getReference().child("Users");
 
     @Override
@@ -36,7 +36,6 @@ public class Registration extends AppCompatActivity {
         loginView =(TextView)findViewById(R.id.LoginInput);
         passwordView =(TextView)findViewById(R.id.passwordInput);
         confirmPasswordView =(TextView)findViewById(R.id.passwordConfirm);
-
         Click();
     }
     private void Click(){

@@ -33,11 +33,6 @@ public class NoteDetailsActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_note_details);
 
-        //Toolbar toolbar = findViewById(R.id.toolbar);
-        //setSupportActionBar(toolbar);
-        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        //getSupportActionBar().setHomeButtonEnabled(true);
-
         setTitle(getString(R.string.note_details_title));
         inputNumber = findViewById(R.id.number);
         editText = findViewById(R.id.text);
